@@ -49,3 +49,9 @@ git push works as well.
 git pull
 ```
 It gets the repo from github and adds it on the local machine
+
+
+```
+git clear
+```
+Clears the terminal
